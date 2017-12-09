@@ -4,7 +4,7 @@
 Open Demographics is a recommended set of questions that anyone can use to ask community members about their demographics.
 
 ## Why  did this start?
-When talking about the makeup of the people in their (open source) community, I hear project leaders say a variation of "I'd like to ask about it but I don't know the right way and I don't want to mess up."
+When talking about the makeup of the people in their (open source) communities, I hear project leaders say a variation of "I'd like to ask about it but I don't know the right way and I don't want to mess up."
 
 So, it felt like a logical next step to standardize the ways that we ask questions about peoples' identities and demographic data.  
 
